@@ -1,0 +1,2 @@
+# mailSender
+基于nodemailer，配合cheerio爬取数据，使用node-schedule来定时发送邮件的小demo
